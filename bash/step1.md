@@ -12,7 +12,7 @@ This is your first step.
 
 `pip install cli-pipeline==1.5.319 --default-timeout=120 --ignore-installed --no-cache --upgrade`{{execute}}
 
-`git clone https://github.com/PipelineAI`{{execute}}
+`git clone https://github.com/PipelineAI/models`{{execute}}
 
 This is an _example_ of creating a scenario and running a **command**
 
