@@ -1,7 +1,7 @@
 mkdir test1
-apt-get update
+sudo apt-get update
 mkdir test2
-apt-get install -y python3-pip
+sudo apt-get install -y python3-pip
 mkdir test3
 apt-get install -y git
 mkdir test4
