@@ -22,7 +22,7 @@ Use `pip` to install `cli-pipeline`.
 Type `pipeline version` to check if `cli-pipeline` is installed.
 
 
-`pipelin version`{{execute}}
+`pipeline version`{{execute}}
 
 
 
