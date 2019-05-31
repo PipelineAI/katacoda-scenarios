@@ -1,3 +1,4 @@
+mkdir test
 apt-get update
 apt-get install -y python3-pip
 apt-get install -y git
